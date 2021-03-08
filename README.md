@@ -1,2 +1,2 @@
 # first-res
-test respo
+test repo for git command demonstration
