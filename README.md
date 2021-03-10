@@ -2,4 +2,4 @@
 
 test repo for git command demonstration
 
-I had watched the tutorial on youtu
+I had watched the tutorial on youtugi
